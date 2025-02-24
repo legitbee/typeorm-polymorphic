@@ -2,15 +2,10 @@
   "name": "typeorm-polymorphic",
   "version": "1.0.0",
   "main": "./dist/index.js",
-  "author": {
-    "name": "Ashleigh Simonelli",
-    "email": "ashleighsimonelli@gmail.com",
-    "url": "http://ashleighsimonelli.co.uk"
-  },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/bashleigh/typeorm-polymorphic"
+    "url": "https://github.com/legitbee/typeorm-polymorphic"
   },
   "description": "A repository for building typed polymorphic relationships",
   "keywords": [
